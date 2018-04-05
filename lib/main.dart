@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'animatecolor.dart';
 import 'rotatingicon.dart';
 
 void main() => runApp(new MyApp());
