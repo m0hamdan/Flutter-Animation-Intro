@@ -1,4 +1,4 @@
-# curved_animation_sample
+# Animation sample
 
 A new Flutter project.
 
